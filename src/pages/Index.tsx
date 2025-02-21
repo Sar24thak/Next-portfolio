@@ -2,7 +2,7 @@
 import Layout from "@/components/Layout"
 import Hero from "@/components/Hero"
 import About from "@/components/About"
-import Skills from "@/components/Skills"
+import Skills from "@/components/Projects"
 import Achievements from "@/components/Achievements"
 import Contact from "@/components/Contact"
 

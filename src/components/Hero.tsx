@@ -4,7 +4,7 @@ import { Github } from "lucide-react";
 
 const Hero = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center pt-20">
+    <div id="home" className="min-h-screen  flex items-center justify-center pt-20">
       <div className="container mx-auto px-4">
         <div className="flex flex-col lg:flex-row items-center justify-between">
           <motion.div 
